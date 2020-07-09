@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is **Michael** and I'm a self-taught designer/developer (_yes, that's a thing!_). I'm currently a **Design Intern** at [Microsoft](https://github.com/microsoft), where I work on a variety of products and design systems.
+
+🌱 I’m currently learning [React.js](https://reactjs.org/). I recently re-wrote my portfolio website in React — it was a super fun experience! I'm also learning more advanced 3D modelling and animation techniques.
+
+💬 Ask me about design! I strongly believe in open design, and encourage co-creation that can help deliver a better solution for our users.
+
+📫 You can reach me on [Twitter](https://twitter.com/itsmichaelwest)!
+
+🌍 Find me on the web at [www.michaelwe.st](https://www.michaelwe.st/)
+
+⚡ Fun fact: I previously used to be a [Microsoft MVP](https://mvp.microsoft.com/) for Windows Design.
 
 <!--
 **itsmichaelwest/itsmichaelwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
