@@ -12,6 +12,8 @@ My name is **Michael** and I'm a self-taught designer/developer (_yes, that's a 
 
 ⚡ Fun fact: I previously used to be a [Microsoft MVP](https://mvp.microsoft.com/) for Windows Design.
 
+😄 My pronounds are he/they.
+
 <!--
 **itsmichaelwest/itsmichaelwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
