@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is **Michael** and I'm a self-taught designer/developer (_yes, that's a thing!_). Currently I am taking a short break from design to enjoy the summer. I was preciously a **Design Intern** at [Microsoft](https://github.com/microsoft), where I worked on a variety of products and design systems.
+My name is **Michael** and I'm a self-taught designer/developer (_yes, that's a thing!_). Currently I am taking a short break from design to enjoy the summer. I was previously a **Design Intern** at [Microsoft](https://github.com/microsoft), where I worked on a variety of products and design systems.
 
 🌱 I’m currently learning [React.js](https://reactjs.org/). I recently re-wrote my portfolio website in React — it was a super fun experience! I'm also learning more advanced 3D modelling and animation techniques.
 
