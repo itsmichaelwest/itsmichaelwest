@@ -1,14 +1,14 @@
 ### Hi there! 👋
 
-My name is **Michael** and I'm a self-taught designer/developer (_yes, that's a thing!_). Currently I am focusing on completing my Computer Science course at university. I was previously a **Design Intern** at [Microsoft](https://github.com/microsoft), where I worked on a variety of products and design systems.
+My name is **Michael** and I'm a self-taught designer/developer (_yes, that's a thing!_). I study Computer Science at university and was previously a **Design Intern** at [Microsoft](https://github.com/microsoft), where I worked on a variety of products and design systems. I'm currently looking for new design roles to start in the summer — please reach out if you think I'd be a good fit for your team!
 
-🌱 I’m currently learning [React.js](https://reactjs.org/). I recently re-wrote my portfolio website in React — it was a super fun experience! I'm also learning more advanced 3D modelling and animation techniques.
+🌱 I'm currently learning more advanced 3D design, modelling, and animation techniques. I really want to see how we can intersect 2D and 3D in interface design.
 
 💬 Ask me about design! I strongly believe in open design, and encourage co-creation that can help deliver a better solution for our users.
 
 📫 You can reach me on [Twitter](https://twitter.com/itsmichaelwest)!
 
-🌍 Find me on the web at [www.michaelwe.st](https://www.michaelwe.st/)
+🌍 Find me on the web at [www.michaelwe.st](https://michaelwe.st/)
 
 ⚡ Fun fact: I previously used to be a [Microsoft MVP](https://mvp.microsoft.com/) for Windows Design.
 
